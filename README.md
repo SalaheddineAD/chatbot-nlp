@@ -1,4 +1,8 @@
 # NLP-Based Chatbot
+<div align="center">
+  <img src="https://github.com/SalaheddineAD/chatbot-nlp/assets/93080778/d5b755bf-1a58-4667-8def-8d376da26724" width="40%" height="40%">
+</div>
+
 
 ## Overview
 This repository showcases an NLP-based chatbot project, focusing on natural language processing techniques to understand and respond to user inputs effectively. The project covers the entire spectrum of text processing, from tokenization to model training, for accurate classification and response generation.
